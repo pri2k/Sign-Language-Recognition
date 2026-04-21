@@ -492,6 +492,6 @@ print(f"Predicted: {result}")
 
 <div align="center">
 
-Made with ❤️ by the NLP Project Team — IIT Roorkee IMT 2022
+
 
 </div>
